@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="back4app_server_url">http://3.16.216.225:80/parse/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">8af91369bf13f742005b5a5c792c7371a7046b1a</string>
+    <string name="back4app_client_key">913d7ddcfef93b7f4d3b2d4ae54d9116fd427b5e</string>
+
+    <string name="app_name">Android Quickstart Example</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_driver_location">Map</string>
+
+</resources>
